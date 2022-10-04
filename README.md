@@ -28,3 +28,6 @@ There are n columns of toy cubes in the box arranged in a line. The i-th column 
 <h5>Output</h5>
 
 >2 3 8 
+
+## Codeforces Link
+[A. Gravity Flip](https://codeforces.com/problemset/problem/405/A)
